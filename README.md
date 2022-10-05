@@ -1,11 +1,8 @@
 # 😄 Sangbaek Lee
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlsqktem483&count_bg=%23F5B31E&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=Hi+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tlsqktem483)](https://solved.ac/tlsqktem483)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsqktem483)](https://solved.ac/tlsqktem483/)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsqktem483&show_icons=true&theme=radical)
-</p>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlsqktem483&count_bg=%23F5B31E&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=Hi+Visitors&edge_flat=false)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsqktem483)](https://github.com/tlsqktem483/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb0479)](https://solved.ac/sb0479/)
+
 # 👋 Hi there!
 ### Hi,  
 ### I'm Sangbaek,  
