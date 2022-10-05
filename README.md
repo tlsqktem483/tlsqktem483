@@ -22,7 +22,14 @@ So, as a **AI Researcher**, I am passionate about improving Human life.
 
 
 ## 🤔 Area of Interest
+![Bio-medical Eng](https://img.shields.io/badge/-Bio--medical%20Engineering-yellow)
+![Signal and Image Processing](https://img.shields.io/badge/-Signal%20and%20Image%20Processing%20-green)<br>
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)<br>
+![Big Data](https://img.shields.io/badge/-Big%20Data-red)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-lightgrey)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsqktem483&show_icons=true&theme=radical)
 
