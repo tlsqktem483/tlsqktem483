@@ -44,7 +44,6 @@ So, as a **AI Researcher**, I am passionate about improving Human life.
 <p>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
