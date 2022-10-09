@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb0479)](https://solved.ac/sb0479/)
 
 # 👋 Hi there!
-### Hi,  
+### Hi  
 ### I'm Sangbaek,  
 ### Bio-medical AI Researcher & Data Scientist
 
